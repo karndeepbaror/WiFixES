@@ -1,0 +1,7 @@
+pywifi
+colorama
+tabulate
+rich
+psutil
+netifaces
+numpy
