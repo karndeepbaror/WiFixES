@@ -1,0 +1,26 @@
+[
+    {
+        "scan_id": 1,
+        "timestamp": "2025-12-24T18:30:00",
+        "networks": [
+            {
+                "ssid": "College_WiFi",
+                "bssid": "AA:BB:CC:DD:EE:FF",
+                "channel": 6,
+                "signal_dbm": -45,
+                "security": "WPA2",
+                "risk_level": "LOW"
+            },
+            {
+                "ssid": "Guest_Network",
+                "bssid": "11:22:33:44:55:66",
+                "channel": 11,
+                "signal_dbm": -70,
+                "security": "OPEN",
+                "risk_level": "MEDIUM"
+            }
+        ],
+        "stability_index": 92,
+        "health_score": 85
+    }
+]
