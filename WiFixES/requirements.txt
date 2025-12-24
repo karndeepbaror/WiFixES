@@ -1,7 +1,10 @@
 pywifi
+numpy
+pandas
+scipy
 colorama
 tabulate
 rich
+tqdm
 psutil
 netifaces
-numpy
