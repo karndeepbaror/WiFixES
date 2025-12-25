@@ -1,3 +1,4 @@
+```
 ========================================
            WiFixES - Scan Report
 ========================================
@@ -37,3 +38,4 @@ Notes:
 - No network disruption occurred
 - Use results for educational purposes only
 ----------------------------------------
+```
